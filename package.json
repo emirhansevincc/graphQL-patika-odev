@@ -1,0 +1,21 @@
+{
+  "name": "graphql-mutation-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "apollo-server-core": "^3.10.0",
+    "graphql": "^16.5.0",
+    "nanoid": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
